@@ -1,0 +1,31 @@
+package com.ConceJvaa;
+
+final public class STringBuilderBufferStringDemo {
+
+	private final String name;
+	private final int rollNo;
+	
+	public String getName() {
+		return name;
+	}
+
+	public int getRollNo() {
+		return rollNo;
+	}
+
+	public STringBuilderBufferStringDemo(String name, int rollNo) {
+		super();
+		this.name = name;
+		this.rollNo = rollNo;
+	}
+	
+	
+	/*public static void main(String[] args) {
+		final StringBuffer sb=new StringBuffer("abc");
+		sb.append("ccc");
+		sb=new StringBuffer();
+		System.out.println(sb);
+
+	*/
+
+}

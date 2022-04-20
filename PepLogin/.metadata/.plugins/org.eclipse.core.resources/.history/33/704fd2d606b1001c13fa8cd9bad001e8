@@ -1,0 +1,9 @@
+package com.ConceJvaa;
+
+public class Test {
+
+	public static void main(String[] args) {
+		STringBuilderBufferStringDemo a=new STringBuilderBufferStringDemo("mk", 123);
+		System.out.println(a);
+	}
+}

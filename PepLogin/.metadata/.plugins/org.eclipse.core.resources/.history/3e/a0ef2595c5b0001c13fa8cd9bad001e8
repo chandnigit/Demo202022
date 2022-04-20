@@ -1,0 +1,22 @@
+package com.ConceJvaa;
+
+public class StringDemo {
+
+	public static void main(String[] args) {
+		String s=new String("dd");
+		String s1=new String("dd");
+		
+		System.out.println(s==s1);
+		System.out.println(s.equals(s1));
+		String ss="guru";
+		String sss="guru";
+		System.out.println(ss==sss);
+		StringBuffer sb=new StringBuffer();
+		sb.append("Durgaaa");
+		StringBuffer sc=new StringBuffer("Durgaaaa");
+		sc.compareTo(sb);
+		System.out.println(sb==sc);
+
+	}
+
+}

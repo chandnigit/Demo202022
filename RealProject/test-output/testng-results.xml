@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-19T17:26:28 IST" name="Default suite" finished-at="2022-04-19T17:26:35 IST" duration-ms="7018">
+    <groups>
+    </groups>
+    <test started-at="2022-04-19T17:26:28 IST" name="Default test" finished-at="2022-04-19T17:26:35 IST" duration-ms="7018">
+      <class name="proSel.callDriverClass">
+        <test-method is-config="true" signature="intializeDriver()[pri:0, instance:proSel.callDriverClass@1de5f259]" started-at="2022-04-19T17:26:25 IST" name="intializeDriver" finished-at="2022-04-19T17:26:28 IST" duration-ms="2948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method is-config="true" signature="initlize()[pri:0, instance:proSel.callDriverClass@1de5f259]" started-at="2022-04-19T17:26:28 IST" name="initlize" finished-at="2022-04-19T17:26:29 IST" duration-ms="1735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initlize -->
+        <test-method signature="testSelctor()[pri:0, instance:proSel.callDriverClass@1de5f259]" started-at="2022-04-19T17:26:29 IST" name="testSelctor" finished-at="2022-04-19T17:26:34 IST" duration-ms="4748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelctor -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:proSel.callDriverClass@1de5f259]" started-at="2022-04-19T17:26:34 IST" name="tearDown" finished-at="2022-04-19T17:26:35 IST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- proSel.callDriverClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

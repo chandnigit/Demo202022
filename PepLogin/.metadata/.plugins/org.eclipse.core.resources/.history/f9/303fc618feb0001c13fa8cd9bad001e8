@@ -1,0 +1,17 @@
+package com.ConceJvaa;
+
+public class StringBufferDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		StringBuffer sb=new StringBuffer();
+		sb.append("Mohit");
+		System.out.println(sb);
+		System.out.println(sb.length());
+		System.out.println(sb.charAt(4));
+		sb.setCharAt(0, 'c');
+		
+
+	}
+
+}

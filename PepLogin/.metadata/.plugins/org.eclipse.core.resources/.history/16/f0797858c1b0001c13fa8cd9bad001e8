@@ -1,0 +1,11 @@
+package com.ConceJvaa;
+
+public class StringDemo {
+
+	public static void main(String[] args) {
+		String s=new string("dd");
+		System.out.println(s.getClass().getName());
+
+	}
+
+}

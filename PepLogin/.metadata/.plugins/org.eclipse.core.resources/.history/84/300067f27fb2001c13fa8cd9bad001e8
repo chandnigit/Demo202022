@@ -1,0 +1,16 @@
+package com.ConceJvaa;
+
+public class CountOfStringDemo {
+
+	public static void main(String[] args) {
+		
+		String s="hello world kaise ho";
+		String s1[]=s.split(" ");
+		for(String i:s1)
+		{
+			System.out.print("  "+i);
+		}
+
+	}
+
+}

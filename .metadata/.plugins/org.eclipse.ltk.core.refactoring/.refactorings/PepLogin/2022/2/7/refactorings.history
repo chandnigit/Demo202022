@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PepLogin/src/com/login/data.properties.txt&apos; to &apos;data.properties&apos;" description="Rename resource &apos;data.properties.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/login/data.properties.txt" name="data.properties" stamp="1644332414797" updateReferences="true"/>
+</session>
