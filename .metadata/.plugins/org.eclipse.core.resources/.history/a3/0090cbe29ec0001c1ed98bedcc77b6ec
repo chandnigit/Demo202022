@@ -41,9 +41,6 @@ public class callDriverClass extends DriverClass {
 		Thread.sleep(3000);
 		System.out.println("hii");
 		
-		
-		System.out.println("Hi this is git push again1");
-		
 		Assert.assertEquals(ll.veri().getText(), "Hey! Chandni");
 		System.out.println("hii");
 		
